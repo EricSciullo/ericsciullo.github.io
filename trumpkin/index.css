@@ -20,6 +20,14 @@ a {
     font-size: 44px;
 }
 
+.fa-spinner {
+    margin-top: 10px;
+}
+
+.content {
+    width: 50%;
+}
+
 #url {
     width: 100%;
     border-radius: 3px;
@@ -38,7 +46,7 @@ h1 {
 }
 
 .img-container {
-    height: 500px;
+    height: 25vh;
     padding-top: 20px;
 }
 
