@@ -1,4 +1,4 @@
 # ericsciullo.github.io
-http://sciullo.dev
+https://sciullo.dev
 
 Personal website
