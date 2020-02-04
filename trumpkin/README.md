@@ -1,5 +1,5 @@
 # trumpkin
-http://sciullo.dev/trumpkin
+https://sciullo.dev/trumpkin
 
 Created using a model from [Google's Teachable Machine](https://teachablemachine.withgoogle.com/train/image) and [TensorFlow.js](https://www.npmjs.com/package/@tensorflow/tfjs).
 
